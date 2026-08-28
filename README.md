@@ -9,12 +9,14 @@ Este repositório contém um pequeno projeto front-end (HTML/CSS/JavaScript) usa
 - CSS (estilos)
 - JavaScript (comportamento/interatividade)
 
-> Observação: no momento o repositório contém apenas o arquivo `index.html`, mas a estrutura suporta adicionar arquivos `.css` e `.js` conforme o exercício do workshop.
+> A página principal é uma landing page responsiva que apresenta os fundamentos do GitHub, seu fluxo de trabalho e recursos de colaboração.
 
 ## Estrutura do repositório (top-level)
 - .gitignore — padrões de arquivos ignorados pelo Git
 - README.md — este arquivo
-- index.html — página de exemplo do workshop
+- index.html — estrutura e conteúdo da landing page
+- style.css — estilos, layout responsivo e identidade visual
+- script.js — menu de navegação para telas menores
 
 ## Como abrir e rodar o projeto no VS Code
 Siga estes passos mínimos para abrir e visualizar o projeto localmente usando o Visual Studio Code (VS Code):
